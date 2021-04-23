@@ -2,6 +2,8 @@ st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
+This is a fork made by lonyelon that adds the gruvbox colors as well as some
+cool fonts. Hope you like it.
 
 Requirements
 ------------
