@@ -1,6 +1,6 @@
 /* See LICENSE file for copyright and license details. */
 
-static char *font = "mono:pixelsize=13:antialias=true:autohint=true";
+static char *font = "SourceCodePro:size=9:antialias=true:autohint=true";
 static char *font2[] = { "JoyPixels:pixelsize=10:antialias=true:autohint=true" };
 static int borderpx = 2;
 
